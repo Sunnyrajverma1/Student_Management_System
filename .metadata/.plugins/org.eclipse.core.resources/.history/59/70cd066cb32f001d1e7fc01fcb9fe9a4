@@ -1,0 +1,7 @@
+package com.student.sms.service.impl;
+
+import com.student.sms.service.StudentService;
+
+public class StudentServiceImpl implements StudentService{
+
+}

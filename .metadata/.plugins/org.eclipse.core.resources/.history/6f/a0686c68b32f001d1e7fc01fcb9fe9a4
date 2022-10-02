@@ -1,0 +1,5 @@
+package com.student.sms.service;
+
+public interface StudentService {
+
+}
